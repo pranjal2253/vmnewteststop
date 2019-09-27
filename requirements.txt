@@ -4,6 +4,6 @@ azure-mgmt-resource==5.0.0
 azure-mgmt-compute==8.0.0
 click==6.7
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.10.2
 MarkupSafe==1.0
-Werkzeug==0.14.1
+Werkzeug==0.16.0
