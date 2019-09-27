@@ -1,0 +1,4 @@
+Flask==0.12.1
+azure-common==1.1.23
+azure-mgmt-resource==5.0.0
+azure-mgmt-compute==8.0.0
